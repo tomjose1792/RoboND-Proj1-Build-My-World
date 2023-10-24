@@ -1,4 +1,4 @@
-# Install script for directory: /home/tom/udacity_rse/home/workspace/Project1
+# Install script for directory: /home/ubuntu/RoboND-Proj1-Build-My-World
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/tom/udacity_rse/home/workspace/Project1/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ubuntu/RoboND-Proj1-Build-My-World/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
