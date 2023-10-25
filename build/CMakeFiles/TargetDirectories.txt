@@ -1,3 +1,0 @@
-/home/ubuntu/RoboND-Proj1-Build-My-World/build/CMakeFiles/rebuild_cache.dir
-/home/ubuntu/RoboND-Proj1-Build-My-World/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/RoboND-Proj1-Build-My-World/build/CMakeFiles/hello.dir
